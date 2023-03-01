@@ -1,3 +1,3 @@
 this is my test repo.
 
-Made a change. LOCAL
+Made a change. REMOTE LOCAL
